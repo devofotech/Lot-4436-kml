@@ -14,16 +14,12 @@
 	</Style>
 	<Style id="point2">
 		<IconStyle>
-			<Icon>
-				<href>F:/PERAK_AMSYERR/UPLOADED/DWG/kml_symbol_lot boundary no road reserve_1_kml_kml_symbol_no symbol_0_png_0.png</href>
-			</Icon>
+			<Icon></Icon>
 		</IconStyle>
 	</Style>
 	<Style id="point1">
 		<IconStyle>
-			<Icon>
-				<href>F:/PERAK_AMSYERR/UPLOADED/DWG/kml_symbol_lot boundary no road reserve_1_kml_kml_symbol_dot_0_png_0.png</href>
-			</Icon>
+			<Icon></Icon>
 		</IconStyle>
 	</Style>
 	<Folder>
