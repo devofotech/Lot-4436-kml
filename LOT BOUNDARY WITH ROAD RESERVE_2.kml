@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>LOT BOUNDARY WITH ROAD RESERVE_2.kml</name>
+	<Style id="point1">
+		<IconStyle>
+			<Icon>
+				<href>F:/PERAK_AMSYERR/UPLOADED/DWG/kml_symbol_lot boundary with road reserve_1_kml_kml_symbol_dot_0_png_0.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="line1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="point2">
+		<IconStyle>
+			<Icon>
+				<href>F:/PERAK_AMSYERR/UPLOADED/DWG/kml_symbol_lot boundary with road reserve_1_kml_kml_symbol_no symbol_0_png_0.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Point Features</name>
+		<description>Point Features</description>
+		<Placemark>
+			<description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point1]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>100.7570872818,4.7824170026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>260°23&apos;40&quot; 53.390</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7566973691,4.7811812557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14°12&apos;30&quot; 194.569</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7566661158,4.7820110766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>97°31&apos;40&quot; 45.957</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7567599706,4.781517571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>187°31&apos;30&quot; 131.602</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7570252784,4.781825008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>186°59&apos;00&quot; 138.151</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7571786042,4.7830351046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>109°15&apos;50&quot; 108.548</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7567789749,4.7838253441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>284°52&apos;50&quot; 77.953</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7565803656,4.7835633665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12°42&apos;30&quot; 35.331</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.756273267,4.7838264832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>192°36&apos;00&quot; 45.738</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.75621529,4.7834638737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>105°42&apos;20&quot;</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7573728738,4.7836226001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18.286</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7573667758,4.7836008359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>186°59&apos;00&quot; 136.853</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7572324058,4.7830223214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>187°31&apos;40&quot; 129.752</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7570808824,4.781826344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>105°08&apos;20&quot; 74.633</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.757315173,4.7811652308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>308°56&apos;00&quot; 31.186</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7567686047,4.7829385523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>96°59&apos;00&quot; 50.174</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7569433813,4.7831047764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>97°31&apos;40&quot; 41.411</name>
+			<description><![CDATA[BED<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7568260521,4.781862646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point1]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>100.7570872818,4.7824170026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4436</name>
+			<description><![CDATA[C-ANNO<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7569293336,4.7826276079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>(3.825 ac)</name>
+			<description><![CDATA[C-ANNO<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7568975548,4.7825687558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1/8</name>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7566971488,4.7813739822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1/8</name>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7567433701,4.7816773193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3/8</name>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = point2]]></description>
+			<styleUrl>#point2</styleUrl>
+			<Point>
+				<coordinates>100.7568675386,4.7823454524,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Line Features</name>
+		<description>Line Features</description>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7563148793,4.7839808298,0 100.7572386102,4.7836570527,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.757291701,4.7836384437,0 100.7571417944,4.782410045,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7571417944,4.782410045,0 100.7569886919,4.7812467859,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7570872818,4.7824170026,0 100.7569319964,4.7812371565,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7569319964,4.7812371565,0 100.7564574752,4.7811565614,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7564574752,4.7811565614,0 100.7568878649,4.7828622631,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7568878649,4.7828622631,0 100.7566691686,4.783039464,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7566691686,4.783039464,0 100.7569239862,4.7834881687,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7569239862,4.7834881687,0 100.7562448452,4.7836691539,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7562448452,4.7836691539,0 100.7563148793,4.7839808298,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.757291701,4.7836384437,0 100.7574503878,4.783593698,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7569886919,4.7812467859,0 100.7576381239,4.7810705815,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7562448452,4.7836691539,0 100.7561549438,4.7832654949,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7572386102,4.7836570527,0 100.757291701,4.7836384437,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-FPRT<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7569319964,4.7812371565,0 100.7569886919,4.7812467859,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7572386102,4.7836570527,0 100.7570872818,4.7824170026,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-SITE<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.756553733,4.7815380471,0 100.7569644382,4.781483647,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-SITE<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7566401249,4.7818804319,0 100.7570102093,4.7818314122,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[A-BLDG-SITE<BR><BR><B>ELEVATION</B> = 0.0<BR><BR><B>ELEVATION</B> = 0.0<BR><B>KML_STYLE</B> = line1]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					100.7567180916,4.7831256119,0 100.7571670279,4.7830704768,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
